@@ -1,11 +1,11 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 I'm Maxime
 <!--
 **maximeish/maximeish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started:
 
-I am a UI/UX designer ✏️ and a fullstack web developer 💻
+I am a UI/UX designer ✏️ and a fullstack web developer 💻 -->
 
 <!--
 - 🔭 I’m currently working on ...
@@ -15,4 +15,3 @@ I am a UI/UX designer ✏️ and a fullstack web developer 💻
 - 📫 How to reach me: :
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
