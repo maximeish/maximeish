@@ -1,17 +1,18 @@
-<!-- ### Hi there 👋
-I'm Maxime
-<!--
-**maximeish/maximeish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+I'm [Maxime](https://maximeishimwe.netlify.app/)
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/maximeish)](https://www.linkedin.com/in/maximeish) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mxmishimwe5@gmail.com)](mailto:mxmishimwe5@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://maximeishimwe.netlify.app)](https://maximeishimwe.netlify.app)
 
-I am a UI/UX designer ✏️ and a fullstack web developer 💻 -->
+### Glad you are here!
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: :
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a passionate full-stack software developer 💻 and UI/UX designer ✏️ willing to learn and work across technologies and domains💡I like to explore new technologies and leverage them to help solve real-life problems ✨. 
+
+### More about me:
+
+
+- 🤝 I'm looking to collaborate on web and mobile application projects
+- 💻 I am eager to explore new tech stack and apply new technologies
+- 🌐 Here is my [porfolio website](https://maximeishimwe.netlify.app) 
+- 📝 Checkout my [resume](https://manumanoj.me/Resume.pdf) for an overview of my skills and working experience
+
+
