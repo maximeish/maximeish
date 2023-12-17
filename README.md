@@ -12,7 +12,7 @@ I am a passionate full-stack software developer 💻 and UI/UX designer ✏️ w
 
 - 🤝 I'm looking to collaborate on web and mobile application projects
 - 💻 I am eager to explore new tech stack and apply new technologies
-- 🌐 Here is my [porfolio website](https://maximeishimwe.netlify.app) 
-- 📝 Checkout my [resume](https://manumanoj.me/Resume.pdf) for an overview of my skills and working experience
+- 🌐 Here is my [portfolio website](https://maximeishimwe.netlify.app) 
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1ucVekleiSfUsXQrfGoKJ56QYk-Q1mF8R/view?usp=sharing) for an overview of my skills and working experience
 
 
